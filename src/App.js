@@ -1,16 +1,18 @@
-import Navbar from "./components/Navbar";
-import BookContextProvider from "./contexts/BookContext";
+import React from 'react';
+import Navbar from './components/Navbar';
+import BookContextProvider from './contexts/BookContext';
+import BookList from './components/BookList';
 
 
-const App = () => {
+function App() {
   return (
     <div className="App">
       <BookContextProvider>
-        <Navbar/>
+        <Navbar />
+        <BookList />
       </BookContextProvider>
-
     </div>
   );
-};
+}
 
 export default App;
