@@ -16,7 +16,7 @@ body {
 .navbar{
   padding: 10px 20px;
   text-align: center;
-  background: #3399ff
+  background: #ff4000;
 }
 .navbar h1{
   margin: 10px 0;
@@ -29,7 +29,7 @@ body {
   list-style-type: none;
 }
 .book-list li{
-  background: #3399ff;
+  background: #ff6600;
   border-radius: 4px;
   padding: 10px;
   cursor: pointer;
@@ -51,4 +51,23 @@ body {
 .empty{
   margin: 20px;
   text-align: center;
+}
+form{
+  padding: 20px;
+}
+input[type='text']{
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 6px 0;
+  background: #ffb366;
+  color: #fff;
+  border: 0;
+}
+input[type='submit']{
+  margin: 10px auto;
+  background: #ff4000;
+  border: 0;
+  padding: 6px 20px;
+  display: block;
 }
