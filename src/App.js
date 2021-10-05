@@ -4,7 +4,7 @@ import BookContextProvider from "./contexts/BookContext";
 
 const App = () => {
   return (
-    <div>
+    <div className="App">
       <BookContextProvider>
         <Navbar/>
       </BookContextProvider>
