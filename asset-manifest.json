@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/NeginSal/Book-List-with-react-context-hooks/static/css/main.57abb243.chunk.css",
-    "main.js": "/NeginSal/Book-List-with-react-context-hooks/static/js/main.083fb130.chunk.js",
-    "main.js.map": "/NeginSal/Book-List-with-react-context-hooks/static/js/main.083fb130.chunk.js.map",
-    "runtime-main.js": "/NeginSal/Book-List-with-react-context-hooks/static/js/runtime-main.4450154c.js",
-    "runtime-main.js.map": "/NeginSal/Book-List-with-react-context-hooks/static/js/runtime-main.4450154c.js.map",
-    "static/js/2.f0552672.chunk.js": "/NeginSal/Book-List-with-react-context-hooks/static/js/2.f0552672.chunk.js",
-    "static/js/2.f0552672.chunk.js.map": "/NeginSal/Book-List-with-react-context-hooks/static/js/2.f0552672.chunk.js.map",
-    "index.html": "/NeginSal/Book-List-with-react-context-hooks/index.html",
-    "static/css/main.57abb243.chunk.css.map": "/NeginSal/Book-List-with-react-context-hooks/static/css/main.57abb243.chunk.css.map",
-    "static/js/2.f0552672.chunk.js.LICENSE.txt": "/NeginSal/Book-List-with-react-context-hooks/static/js/2.f0552672.chunk.js.LICENSE.txt"
+    "main.css": "/Book-List-with-react-context-hooks/static/css/main.57abb243.chunk.css",
+    "main.js": "/Book-List-with-react-context-hooks/static/js/main.083fb130.chunk.js",
+    "main.js.map": "/Book-List-with-react-context-hooks/static/js/main.083fb130.chunk.js.map",
+    "runtime-main.js": "/Book-List-with-react-context-hooks/static/js/runtime-main.28cac471.js",
+    "runtime-main.js.map": "/Book-List-with-react-context-hooks/static/js/runtime-main.28cac471.js.map",
+    "static/js/2.f0552672.chunk.js": "/Book-List-with-react-context-hooks/static/js/2.f0552672.chunk.js",
+    "static/js/2.f0552672.chunk.js.map": "/Book-List-with-react-context-hooks/static/js/2.f0552672.chunk.js.map",
+    "index.html": "/Book-List-with-react-context-hooks/index.html",
+    "static/css/main.57abb243.chunk.css.map": "/Book-List-with-react-context-hooks/static/css/main.57abb243.chunk.css.map",
+    "static/js/2.f0552672.chunk.js.LICENSE.txt": "/Book-List-with-react-context-hooks/static/js/2.f0552672.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4450154c.js",
+    "static/js/runtime-main.28cac471.js",
     "static/js/2.f0552672.chunk.js",
     "static/css/main.57abb243.chunk.css",
     "static/js/main.083fb130.chunk.js"
